@@ -15,7 +15,7 @@ As part of this project, I wrote a blog post to explain my findings in more deta
 
 ### Read the full article here:
 [Unlocking the Link Between GDP and Life Expectancy: What Six Countries Reveal About Economic Growth and Health](<https://medium.com/@towhidulislam265/unlocking-the-link-between-gdp-and-life-expectancy-what-six-countries-reveal-about-economic-growth-37dd13a5dd82>)
-*(Tip: Right-click and select "Open in New Tab" for a better browsing experience.)*
+*(Right-click and select "Open in New Tab" for a better browsing experience.)*
 
 This blog post showcases:
 - The purpose and goals of the analysis.
